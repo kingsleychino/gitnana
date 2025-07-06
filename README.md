@@ -1,3 +1,1 @@
-This is the first git line
-
-This is the second line
+This is my new project
